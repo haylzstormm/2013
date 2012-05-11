@@ -1,0 +1,25 @@
+/*
+Theme Name:     2013
+Theme URI:      http: //thecloud99.com
+Description:    Twenty Twelve Child Theme 
+Author:         Flash Mallach
+Author URI:     http://thecloud99.com
+Template:       twentytwelve
+Version:        0.1
+*/
+
+@import url("../twentytwelve/style.css");
+
+#page .entry-title
+{
+	display: none !important;
+}
+
+a:link, a:visited {
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+}
